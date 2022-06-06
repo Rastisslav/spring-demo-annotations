@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e1753bd-a44c-4944-92f9-4430d8fd2155" name="Changes" comment="beginning">
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/HockeyCoach.java" afterDir="false" />
+    <list default="true" id="2e1753bd-a44c-4944-92f9-4430d8fd2155" name="Changes" comment="annotations first task">
+      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/FortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/HappyFortuneService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/AnnotationDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/AnnotationDemoApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/Coach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/HockeyCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/HockeyCoach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/TennisCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/TennisCoach.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654283386360</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="annotations first task">
+      <created>1654441729768</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654441729768</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="beginning" />
-    <option name="LAST_COMMIT_MESSAGE" value="beginning" />
+    <MESSAGE value="annotations first task" />
+    <option name="LAST_COMMIT_MESSAGE" value="annotations first task" />
   </component>
 </project>
